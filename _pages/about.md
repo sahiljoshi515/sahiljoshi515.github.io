@@ -12,7 +12,7 @@ I am a first-year Ph.D. student with a research focus on Large Language Models a
 
 News
 ======
-- I recently completed my first semester as a Ph.D. student and have successfully finished 2 of the 6 required courses in my program.
+- I recently completed my first semester and have successfully finished 2 of the 6 required courses in my program.
 
 Awards & Service
 ======
