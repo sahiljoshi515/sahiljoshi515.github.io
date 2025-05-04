@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student with a research focus on Large Language Models and their applications. I hold a Bachelor of Science in Computer Science from the University of Massachusetts, Amherst. Prior to starting my Ph.D., I gained two years of industry experience as a Software Engineer at Dell Technologies.
+I am a first-year Ph.D. student with a research focus on Large Language Models and their applications. I hold a Bachelor of Science in Computer Science from the University of Massachusetts, Amherst. Prior to starting my Ph.D., I gained two years of industry experience as a Software Engineer at Dell Technologies. Beyond work, I’m passionate about exploring new places around the world, getting immersed in gripping thriller shows, and staying active by playing table tennis.
 
 
 News
