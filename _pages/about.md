@@ -16,4 +16,4 @@ News
 
 Awards & Service
 ======
-- I have been elected President of the Computer Science Graduate Student Association (CSGSA) for the 2025–2026 academic year.
+- I have been elected as the President of the Computer Science Graduate Student Association (CSGSA) for the 2025–2026 academic year.
