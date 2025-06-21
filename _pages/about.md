@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student with a research focus on Large Language Models and their applications. I hold a Bachelor of Science in Computer Science from the University of Massachusetts, Amherst. Prior to starting my Ph.D., I gained two years of industry experience as a Software Engineer at Dell Technologies. Beyond work, I’m passionate about exploring new places around the world, getting immersed in gripping thriller shows, and staying active by playing table tennis.
+I am a first-year Ph.D. student advised by [Dr. Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) with a research focus on efficient training of large language models and their applications. I hold a Bachelor of Science in Computer Science from the University of Massachusetts, Amherst. Prior to starting my Ph.D., I gained two years of industry experience as a Software Engineer at Dell Technologies. Beyond work, I’m passionate about travelling around the world, getting immersed in gripping thriller/horror shows, and staying active by playing table tennis competitively.
 
 
 News
 ======
-- I recently completed my first semester and have successfully finished 2 of the 6 required courses in my program.
+- I recently completed my first semester and successfully completed 2 out of the 6 required courses in my Ph.D. program. I also joined the RUSH Lab in Summer 2025 to begin my research journey.
 
 Awards & Service
 ======
