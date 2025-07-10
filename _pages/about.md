@@ -17,3 +17,4 @@ News
 Awards & Service
 ======
 - I have been elected as the President of the Computer Science Graduate Student Association (CSGSA) for the 2025–2026 academic year.
+- In 2023, I graduated from University of Massachusetts, Amherst, where I was honored with the Outstanding Undergraduate Achievement Award for my academic and research contributions.
