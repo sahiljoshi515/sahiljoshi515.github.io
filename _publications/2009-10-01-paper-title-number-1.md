@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Pre-prints"
 permalink: /publications/
 author_profile: true
 redirect_from:
