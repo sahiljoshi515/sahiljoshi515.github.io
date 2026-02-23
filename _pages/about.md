@@ -12,7 +12,7 @@ I am a second-year Ph.D. student advised by [Dr. Anshumali Shrivastava](https://
 
 News
 ======
-- I recently completed my second semester and successfully completed 3 out of the 6 required courses in my Ph.D. program. I also published my first [research paper](https://arxiv.org/abs/2510.04008)!
+- I recently completed my second semester and have finished 3 of the 6 required courses in my Ph.D. program. My first research paper, [“RACE Attention: A Strictly Linear-Time Attention for Long-Sequence Training,”](https://arxiv.org/abs/2510.04008) was accepted at ICLR 2026!
 
 Awards & Service
 ======
