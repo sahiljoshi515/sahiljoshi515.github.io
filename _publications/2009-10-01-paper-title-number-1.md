@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Pre-prints"
+title: "Selected Publications & Pre-prints"
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications.html
 ---
 
-* [Replacing Softmax Similarity with a Sharpened Angular Similarity: Theory and Practice of Scaling To Billion-Context Attention](https://arxiv.org/abs/2510.04008) 
+* [RACE Attention: A Strictly Linear-Time Attention for Long-Sequence Training, ICLR 2026](https://arxiv.org/abs/2510.04008)
+* [SOCKET: SOft Collison Kernel EsTimator for Sparse Attention](https://arxiv.org/abs/2510.04008)
+* [Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference](https://www.arxiv.org/abs/2602.07397)
