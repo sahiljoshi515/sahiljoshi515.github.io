@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Full CV can be viewed here (last updated October 2025): [CV](./Sahil_CV.pdf)
+Full CV can be viewed here (last updated February 2026): [CV](./Sahil_CV.pdf)
