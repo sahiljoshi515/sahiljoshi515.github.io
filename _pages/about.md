@@ -12,11 +12,12 @@ I am a second-year Ph.D. student advised by [Dr. Anshumali Shrivastava](https://
 
 News
 ======
-- I recently completed my third semester and have finished 4 of the 6 required courses in my Ph.D. program. Our recent work, ["Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference"](https://arxiv.org/abs/2602.07397) was accepted to ICML 2026!
+- I will be joining [Workato](https://www.workato.com/) as an AI Engineering Intern for Summer 2026!
+- Our recent work, ["Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference"](https://arxiv.org/abs/2602.07397) was accepted to ICML 2026!
 - My first research paper, ["RACE Attention: A Strictly Linear-Time Attention Layer for Training on Outrageously Large Contexts"](https://arxiv.org/abs/2510.04008) was accepted to ICLR 2026!
 
 Awards & Service
 ======
-- I will be serving as a Reviewer for NeurIPS 2026!
+- I am serving as a Reviewer for NeurIPS 2026!
 - I have been re-elected as the President of the Computer Science Graduate Student Association (CSGSA) for the 2026–2027 academic year.
 - In 2023, I graduated from University of Massachusetts, Amherst, where I was honored with the Outstanding Undergraduate Achievement Award for my academic and research contributions.
