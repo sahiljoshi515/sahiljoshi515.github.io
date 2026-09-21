@@ -12,7 +12,7 @@ I am a second-year Ph.D. student advised by [Dr. Anshumali Shrivastava](https://
 
 News
 ======
-- I will be joining Amazon as an Applied Scientist Intern in October 2026!
+- I will be joining Amazon as an Applied Scientist Intern from October 2026!
 - Our recent work, ["Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference"](https://arxiv.org/abs/2602.07397) was accepted to ICML 2026!
 
 Awards & Service
