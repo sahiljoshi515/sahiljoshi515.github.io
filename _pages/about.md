@@ -12,10 +12,11 @@ I am a second-year Ph.D. student advised by [Dr. Anshumali Shrivastava](https://
 
 News
 ======
+- I will be joining Amazon as an Applied Scientist Intern in October 2026!
 - Our recent work, ["Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference"](https://arxiv.org/abs/2602.07397) was accepted to ICML 2026!
 
 Awards & Service
 ======
-- I served as a Reviewer for NeurIPS 2026.
+- I serve as a reviewer for NeurIPS and ICLR.
 - I am currently serving as the President of the Computer Science Graduate Student Association (CSGSA) for the 2025–2027 term.
 - In 2023, I graduated from University of Massachusetts, Amherst, where I was honored with the Outstanding Undergraduate Achievement Award for my academic and research contributions.
