@@ -13,7 +13,7 @@ I am a second-year Ph.D. student advised by [Dr. Anshumali Shrivastava](https://
 News
 ======
 - I will be joining Amazon as an Applied Scientist Intern from October 2026!
-- Our recent work, ["Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference"](https://arxiv.org/abs/2602.07397) was accepted to ICML 2026!
+- My recent work in collaboration with the [Skylab](https://sky.cs.berkeley.edu/), ["Inference Time Context Sparsity: Illusion or Opportunity?"](arxiv.org/pdf/2605.24168) has been accepted to NeurIPS 2026 Position Paper Track!
 
 Awards & Service
 ======
