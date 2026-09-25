@@ -9,6 +9,6 @@ redirect_from:
 
 * **Sahil Joshi**, Agniva Chowdhury, Amar Kanakamedala, Ekam Singh, Evan Tu, Anshumali Shrivastava. [RACE Attention: A Strictly Linear-Time Attention for Long-Sequence Training, ICLR 2026](https://arxiv.org/abs/2510.04008)
 * Hoang Anh Duy Le, **Sahil Joshi**, Zeyu Yang, Zhaozhuo Xu, Anshumali Shrivastava. [Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference, ICML 2026](https://www.arxiv.org/abs/2602.07397)
-* **Sahil Joshi**, Prithvi Dixit, Agniva Chowdhury, Anshumali Shrivastava, Joseph E. Gonzalez, Ion Stoica, Kumar Krishna Agrawal, Aditya Desai. [Inference Time Context Sparsity: Illusion or Opportunity?](https://arxiv.org/abs/2605.24168)
+* **Sahil Joshi**, Prithvi Dixit, Agniva Chowdhury, Anshumali Shrivastava, Joseph E. Gonzalez, Ion Stoica, Kumar Krishna Agrawal, Aditya Desai. [Inference Time Context Sparsity: Illusion or Opportunity? NeurIPS 2026](https://arxiv.org/abs/2605.24168)
 * **Sahil Joshi**, Agniva Chowdhury, Wyatt Bellinger, Amar Kanakamedala, Ekam Singh, Hoang Anh Duy Le, Aditya Desai, Anshumali Shrivastava. [SOCKET: SOft Collison Kernel EsTimator for Sparse Attention](https://arxiv.org/abs/2602.06283)
 
