@@ -13,7 +13,7 @@ I am a second-year Ph.D. student advised by [Dr. Anshumali Shrivastava](https://
 News
 ======
 - I will be joining Amazon as an Applied Scientist Intern from October 2026!
-- My recent work in collaboration with the [Skylab](https://sky.cs.berkeley.edu/), ["Inference Time Context Sparsity: Illusion or Opportunity?"](arxiv.org/pdf/2605.24168) has been accepted to NeurIPS 2026 Position Paper Track!
+- My recent work in collaboration with the [Skylab](https://sky.cs.berkeley.edu/), ["Inference Time Context Sparsity: Illusion or Opportunity?"](https://arxiv.org/abs/2605.24168) has been accepted to NeurIPS 2026 Position Paper Track!
 
 Awards & Service
 ======
